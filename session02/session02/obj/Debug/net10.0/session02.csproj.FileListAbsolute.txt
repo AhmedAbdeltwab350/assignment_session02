@@ -1,0 +1,16 @@
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.exe
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.deps.json
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.runtimeconfig.json
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.runtimeconfig.dev.json
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.dll
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\bin\Debug\net10.0\session02.pdb
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.AssemblyInfoInputs.cache
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.AssemblyInfo.cs
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.csproj.CoreCompileInputs.cache
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.dll
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\refint\session02.dll
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.pdb
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.genruntimeconfig.cache
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\ref\session02.dll
+C:\Users\bdalt\OneDrive\Desktop\Route\solutions\c# basics\session02\session02\obj\Debug\net10.0\session02.csproj.Up2Date
